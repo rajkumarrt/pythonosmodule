@@ -1,10 +1,6 @@
 # Pythonosmodule
 
 
-Program List
------------- 
-
-
 Row  | Module details
 ------------ | -------------
 1 | <p><a href="https://github.com/rajkumarrt/pythonosmodule/blob/main/currentdir.py"> Current Directory </a>&nbsp;</p>
