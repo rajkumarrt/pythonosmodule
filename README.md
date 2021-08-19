@@ -1,3 +1,4 @@
 # Pythonosmodule
 
-<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dataframe.py"> Code1 - Data frame </a>&nbsp;</p>
+<p><a href="https://github.com/rajkumarrt/pythonosmodule/blob/main/currentdir.py"> 1.Current Directory </a>&nbsp;</p>
+<p><a href="https://github.com/rajkumarrt/pythonosmodule/blob/main/osdetails.py"> 2.OS Details </a>&nbsp;</p>
